@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dinuka Nawod</h1>
 <h3 align="center">Software Engineering undergraduate student at SLIIT</h3>
 
-- 🌱 I’m currently learning **React JS, Figma**
+- 🌱 I’m currently learning **React JS, java, Springboot, C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/it21166624](https://github.com/it21166624)
 
-- 💬 Ask me about **React, Node, HTML, CSS**
+- 💬 Ask me about **React, Node, Java, Figma**
 
 - 📫 How to reach me **dinuka0713@gmail.com**
 
